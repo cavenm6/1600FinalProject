@@ -71,6 +71,7 @@ Content-Length: 137
     <h1>Hello World</h1>
   </body>
 </html>
+'''html
 
 ## How Requests and Responses Work Together
 ### **Client → Server (Request)**
