@@ -72,6 +72,6 @@ Content-Length: 52
   </body>
 </html>
 
-## 📎 Navigation
+## Navigation
 [Back: HTTP Requests](02-http-requests.md)  
 [Next: HTTP Status Codes](04-status-codes.md)
