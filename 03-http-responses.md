@@ -51,26 +51,6 @@ This might be:
 - A file  
 - An error message  
 
-Example body (HTML):
-
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1>Welcome!</h1>
-  </body>
-</html>
-
-HTTP/1.1 200 OK
-Content-Type: text/html
-Content-Length: 137
-
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1>Hello World</h1>
-  </body>
-</html>
-
 ## How Requests and Responses Work Together
 ### **Client → Server (Request)**
 
